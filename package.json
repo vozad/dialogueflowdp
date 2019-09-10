@@ -1,0 +1,20 @@
+{
+  "name": "nodesample",
+  "version": "1.0.0",
+  "description": "A simple ndoe application ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "4.17.1",
+    "pug": "2.0.4",
+    "mongoose": "5.6.9"
+  },
+  "keywords": [
+    "simple",
+    "node.js"
+  ],
+  "author": "Vrutti",
+  "license": "MIT"
+}
